@@ -1,11 +1,14 @@
 body { 
-    color: #ADD8E6;
+    color: grey;
 }
 img {
     border-radius: 10px;
 border-color: black;
 }
 h1 {
+    text-align: center;
+}
+h2 {
     text-align: center;
 }
 p {
