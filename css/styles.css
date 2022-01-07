@@ -1,0 +1,16 @@
+body { 
+    background-color: antiquewhite;
+}
+img {
+    border-radius: 3px;
+border-color: black;
+}
+h1 {
+    text-align: center;
+}
+p {
+    font-style: oblique;
+}
+.pointer {
+    cursor: pointer;
+}
